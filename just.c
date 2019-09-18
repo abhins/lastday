@@ -68,7 +68,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
   /*_I hope some good luck bounces back in*/return;
 
   //Like this section of the code, _I am also unreachable on
-  /*social-media*/union{/*of(Facebook,Instagram,LinkedIn)*/};
+  /*networking platforms*/union{/*of(Facebook,Instagram,LinkedIn)*/};
   /*so*/if(_you)/*would like to reach me*/{
   //mail me at abhins4@gmail.com
   }else{
