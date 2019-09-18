@@ -9,7 +9,7 @@
 /*CHANGE IS THE ONLY*/const;
 //==================================
 
-/*and of course there will be a*/void/*for some time but
+/*and of course there will be a*/void/*for sometime but
 the*/main()/*point of this CHANGE is to think about the*/{
   short _and_the;long _term_goals;
   while(_I){/*had always pondered*/
@@ -20,7 +20,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
     /*"an epiphany" like a lightening*/struct{}/*me...pun intended;);)*/;
     goto CODING;/*yes! "goto CODING" was the realization*/
     /*and _I let all my*/volatile _thoughts;
-    /*that hitherto were a*/float _become;static _and;
+    /*that hitherto were a*/float _go;static _and;
     register _just_with_this_idea;for(_my;_last_day;_email){};
     }
   }
@@ -52,7 +52,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
   }while(_these_dilemmas_are </*less than*/_other_worries_in_life);
   for(;_now;)/*let me*/{continue;}/*and skip solving this*/RIDDLE();
   /*_I*/do{/*believe that the last-day Note ought to be*/
-    signed _off;/*with the mention of few eminent*/
+    signed _off;/*mentioning few eminent*/
     char/*acters*/ *_who_trusted_supported_helped_me_in_this_journey[] = {
       /*_I would like to thank*/
       "NADI K",
@@ -74,10 +74,10 @@ the*/main()/*point of this CHANGE is to think about the*/{
   }else{
   //WhatsApp or Call me at +91-9611012995
   }
-  /*a NOTE*/for(;;){}/*All The Geeks*/
-  //(it's Zen to be non-attached, Geeks like attachment so I added one!)
+  /*a NOTE*/for(;;){}/*all the Geeks*/
+  //(it's Zen to be non-attached, Geeks prefer attachment so I added one!)
   //compile & execute this Note verbatim and answer the Easter Egg _I embedded:
-  //do it NOW!
+  //try it NOW!
   //as in:
   //_abhi (pun intended)
 }
