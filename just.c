@@ -3,7 +3,7 @@
 //let's just.c how it goes!
 
 /*Hello World! that*/#include"allFriendsPeersManagersDirectorsEt.Al."
-/*let me*/#define some_cliché_aphorism_which_needless_to_say_is TUE
+/*let me*/#define some_cliché_aphorism_which_needless_to_say_is TRUE
 
 //==================================
 /*CHANGE IS THE ONLY*/const;
