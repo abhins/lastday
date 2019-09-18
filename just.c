@@ -20,8 +20,8 @@ the*/main()/*point of this CHANGE is to think about the*/{
     /*"an epiphany" like a lightening*/struct{}/*me...pun intended;);)*/;
     goto CODING;/*yes! "goto CODING" was the realization*/
     /*and _I let all my*/volatile _thoughts;
-    /*that hitherto were a*/float _go;static _and;
-    register _just_with_this_idea;for(_my;_last_day;_email){};
+    /*that hitherto did*/float _go; static _and;
+    register _just_with_this_thought;for(_my;_last_day;_email){};
     }
   }
 
