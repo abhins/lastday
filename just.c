@@ -5,14 +5,14 @@
 /*CHANGE IS THE ONLY*/const;
 //==================================
 
-/*Of course there will be a*/void/*for some time but 
+/*and of course there will be a*/void/*for some time but 
 the*/main()/*point of this CHANGE is to think about the*/{ 
   short _and_the;long _term_goals;
   while(_I){/*had always pondered*/ 
-    if (_I){/*were to write my last-day Note 
+    if(_I){/*were to write my last-day Note 
     should _I be creative & meaningful? or
     should _I*/do{/*what is conventionally followed?*/
-    }while (_I)/*was at it...*/; 
+    }while(_I)/*was at it...*/; 
     /*"an epiphany" like a lightening*/struct{}/*me...pun intended;);)*/;
     goto CODING;/*yes! goto CODING was the realization*/
     /*and _I let all my*/volatile _thoughts;
@@ -35,7 +35,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
 
   /*juggling some*/extern/*al and some*/int/*ernal*/_dilemmas;
 
-  do{/*_I need to*/switch (_carrers){//and look for alternate fields//??
+  do{/*_I need to*/switch(_carrers){//and look for alternate fields//??
     //or hone my skills??
     //aquire new skill(s)??
     /*or I just*/goto CODING;//??
@@ -60,7 +60,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
       "et.al"
     };  
     for(;_all;){}/*the opportunities that you paved my way*/
-  }while (_I);/*wholeheartedly wish luck*/for(;;)/*all of you*/
+  }while(_I);/*wholeheartedly wish luck*/for(;;)/*all of you*/
   /*_I hope some good luck bounces back in*/return;
 
   //Like this section of the code, I am also not reachable on 
