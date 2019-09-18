@@ -1,5 +1,9 @@
+//Dtd. 19-09-19
+//Composer: Abhi J (abhins4@gmail.com)
+//let's just.c how it goes!
+
 /*Hello World! that*/#include"allFriendsPeersManagersDirectorsEt.Al."
-/*let me*/#define some_cliche_aphorism_which_needless_to_say_is TRUE
+/*let me*/#define some_cliché_aphorism_which_needless_to_say_is TRUE
 
 //==================================
 /*CHANGE IS THE ONLY*/const;
@@ -31,7 +35,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
     };
   }
 
-  auto/*mation has always*/ _been_a; double _edged_sword;
+  auto/*mation has always*/ _been_a;double _edged_sword;
 
   /*juggling some*/extern/*al and some*/int/*ernal*/_dilemmas;
 
@@ -71,7 +75,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
   /*WhatsApp or Call me at +91-9611012995*/
   }
   /*A NOTE*/for(;;){}/*All The Geeks*/
-  //Compile & Execute this Note and answer the Easter Egg 
+  //Compile & Execute this Note verbatim and answer the Easter Egg 
   //do it NOW!
   //as in:
   //_abhi (pun intended)
