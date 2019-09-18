@@ -75,6 +75,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
   //WhatsApp or Call me at +91-9611012995
   }
   /*a NOTE*/for(;;){}/*All The Geeks*/
+  //(it's Zen to be non-attached, Geeks like attachment so I added one!)
   //compile & execute this Note verbatim and answer the Easter Egg _I embedded:
   //do it NOW!
   //as in:
