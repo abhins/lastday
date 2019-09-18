@@ -39,7 +39,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
 
   /*now juggling with some*/extern/*al and some*/int/*ernal*/_dilemmas;
 
-  do{/*_I need to*/switch(_carrers){//and look for alternate fields//??
+  do{/*_I need to*/switch(_careers){//and look for alternate fields//??
     //or hone my skills??
     //aquire new skill(s)??
     /*or _I just*/goto CODING;//??

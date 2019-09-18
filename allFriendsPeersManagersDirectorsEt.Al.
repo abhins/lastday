@@ -1,5 +1,5 @@
 #include<stdio.h>
-int _carrers               = 0;
+int _careers               = 0;
 int _a                     = 0;
 int _and_travel            = 0;
 int _would_that_break_be   = 0;
