@@ -55,12 +55,11 @@ the*/main()/*point of this CHANGE is to think about the*/{
     signed _off;/*with the mention of few eminent*/ 
     char/*acters*/ *_who_trusted_supported_helped_me_in_this_journey[] = {
       /*I would like to thank*/
-      "NADI K",
-      "SANTOSH P",
-      "BALA T",
-      "MY TEAM",//automation
-      "EXTENDED TEAM",//@cspg
-      "PEERS",
+      "The Directors",
+      "The Managers",
+      "My Team Members",//automation
+      "Extended Team",//@cspg
+      "Peers",
       "et.al"
     };  
     for(;_all;){}/*the opportunities that you paved my way*/
