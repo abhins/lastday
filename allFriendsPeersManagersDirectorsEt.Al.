@@ -1,0 +1,100 @@
+#include<stdio.h>
+int _carrers               = 0;
+int _a                     = 0;
+int _and_travel            = 0;
+int _would_that_break_be   = 0;
+int _these_dilemmas_are    = 0;
+int _other_worries_in_life = 0;
+int _I                     = 0;
+int _my                    = 0;
+int _last_day              = 0;
+int _email                 = 0;
+int _this_break            = 0;
+int _been_a                = 0;
+int _edged_sword           = 0;
+int _all                   = 0;
+int _now                   = 0;
+int _you                   = 0;
+const int _and_others      = 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#define RIDDLE() printf("Which keyword(s) of Standard C language I didn't use in this program?\n")
