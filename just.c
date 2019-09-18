@@ -42,19 +42,19 @@ the*/main()/*point of this CHANGE is to think about the*/{
   do{/*_I need to*/switch(_carrers){//and look for alternate fields//??
     //or hone my skills??
     //aquire new skill(s)??
-    /*or I just*/goto CODING;//??
+    /*or _I just*/goto CODING;//??
     /*or take a*/break;for(;_a;){while(_and_travel){}};//??
     /*How*/long _would_that_break_be=/*yes! precisely*/sizeof("that_break");//??
-    /*As I ponder on this*/case(_and_others):
+    /*As _I ponder on this*/case(_and_others):
     /*life must*/continue;
-    /*I know my*/default:/*love is*/CODING:;
+    /*_I know my*/default:/*love is*/CODING:;
     }
   }while(_these_dilemmas_are </*less than*/_other_worries_in_life);
   for(;_now;)/*let me*/{continue;}/*and skip solving this*/RIDDLE();
   /*_I*/do{/*believe that the last-day Note ought to be*/
     signed _off;/*with the mention of few eminent*/
     char/*acters*/ *_who_trusted_supported_helped_me_in_this_journey[] = {
-      /*I would like to thank*/
+      /*_I would like to thank*/
       "NADI K",
       "SANTOSH P",
       "BALA T",
@@ -67,7 +67,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
   }while(_I);/*wholeheartedly wish luck*/for(;;)/*all of you*/
   /*_I hope some good luck bounces back in*/return;
 
-  //Like this section of the code, I am also unreachable on
+  //Like this section of the code, _I am also unreachable on
   /*social-media*/union{/*of(Facebook,Instagram,LinkedIn)*/};
   /*so*/if(_you)/*would like to reach me*/{
   //mail me at abhins4@gmail.com
@@ -75,7 +75,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
   //WhatsApp or Call me at +91-9611012995
   }
   /*a NOTE*/for(;;){}/*All The Geeks*/
-  //compile & execute this Note verbatim and answer the Easter Egg I embedded:
+  //compile & execute this Note verbatim and answer the Easter Egg _I embedded:
   //do it NOW!
   //as in:
   //_abhi (pun intended)
