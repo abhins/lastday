@@ -9,7 +9,7 @@
 /*CHANGE IS THE ONLY*/const;
 //==================================
 
-/*and of course there will be a*/void/*for sometime but
+/*Yes of course there will be a*/void/*for sometime but
 the*/main()/*point of this CHANGE is to think about the*/{
   short _and_the;long _term_goals;
   while(_I){/*had always pondered*/
@@ -52,20 +52,22 @@ the*/main()/*point of this CHANGE is to think about the*/{
   }while(_these_dilemmas_are </*less than*/_other_worries_in_life);
   for(;_now;)/*let me*/{continue;}/*and skip solving this*/RIDDLE();
   /*_I*/do{/*believe that the last-day Note ought to be*/
-    signed _off;/*mentioning few eminent*/
-    char/*acters*/ *_who_trusted_supported_helped_me_in_this_journey[] = {
-      /*_I would like to thank*/
+    signed _off;/*by mentioning few eminent*/
+    char/*acters who played an important role*/ 
+      *_who_trusted_supported_helped_you_in_your_journey[] = {
+      /*So,_I would like to thank*/
       "NADI K",
       "SANTOSH P",
       "BALA T",
       "MY TEAM",//automation
       "EXTENDED TEAM",//@cspg
       "PEERS",
+      "FRIENDS",
       "et.al"
     };
     for(;_all;){}/*the opportunities that you paved my way.*/
   }while(_I);/*wholeheartedly wish luck*/for(;;)/*all of you*/
-  /*_I hope some good luck bounces back in*/return;
+  /*_I hope some good luck bounces back in*/return;//:) :)
 
   //Like this section of the code, _I am also unreachable on
   /*networking platforms*/union{/*of(Facebook,Instagram,LinkedIn)*/};

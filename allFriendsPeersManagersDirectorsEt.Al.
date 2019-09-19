@@ -97,4 +97,4 @@ const int _and_others      = 0;
 
 
 
-#define RIDDLE() printf("Which keyword(s) of Standard C language I didn't use in this program?\n")
+#define RIDDLE() printf("Which keyword(s) of Standard C language I didn't use in my last-day Note?\n")
