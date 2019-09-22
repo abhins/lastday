@@ -62,7 +62,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
       "EXTENDED TEAM",//@cspg
       "PEERS",
       "FRIENDS",
-      "et.al"
+      "et al."
     };
     for(;_all;){}/*the opportunities that you paved my way.*/
   }while(_I);/*wholeheartedly wish luck*/for(;;)/*all of you*/
