@@ -12,7 +12,7 @@
 /*Yes of course there will be a*/void/*for sometime but
 the*/main()/*point of this CHANGE is to think about the*/{
   short _and_the;long _term_goals;
-  while(_I){/*had always pondered*/
+  while(_I){/*have always pondered*/
     if(_I){/*were to write my last-day Note
     should _I be creative & meaningful? or
     should _I*/do{/*what is conventionally followed?*/
@@ -41,7 +41,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
 
   do{/*_I need to*/switch(_careers){//and look for alternate fields//??
     //or hone my skills??
-    //aquire new skill(s)??
+    //acquire new skill(s)??
     /*or _I just*/goto CODING;//??
     /*or take a*/break;for(;_a;){while(_and_travel){}};//??
     /*How*/long _would_that_break_be=/*yes! precisely*/sizeof("that_break");//??
@@ -56,9 +56,8 @@ the*/main()/*point of this CHANGE is to think about the*/{
     char/*acters who played an important role*/ 
       *_who_trusted_supported_helped_you_in_your_journey[] = {
       /*So,_I would like to thank*/
-      "NADI K",
-      "SANTOSH P",
-      "BALA T",
+      "The Director(s)",
+      "The Manager(s)",
       "MY TEAM",//automation
       "EXTENDED TEAM",//@cspg
       "PEERS",
