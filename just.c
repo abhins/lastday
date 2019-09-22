@@ -25,7 +25,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
     }
   }
 
-  if(_I)/*were to*/{enum/*erate*/ my_career_in_cisco{
+  if(_I)/*were to*/{enum/*erate*/ my_career_in_this_org{
     /*_I started as a*/
     DEVELOPER,
     /*then became a*/
@@ -59,7 +59,7 @@ the*/main()/*point of this CHANGE is to think about the*/{
       "The Director(s)",
       "The Manager(s)",
       "MY TEAM",//automation
-      "EXTENDED TEAM",//@cspg
+      "EXTENDED TEAM",
       "PEERS",
       "FRIENDS",
       "et al."
