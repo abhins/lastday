@@ -1,12 +1,12 @@
 //Dtd. 19-09-19
-//Composer: Abhi J (abhins4@gmail.com)
+//Composer: Abhi J (*****@gmail.com)
 //let's just.c how it goes!
 
 /*Hello World! that*/#include"allFriendsPeersManagersDirectorsEt.Al."
 /*let me*/#define some_cliché_aphorism_which_needless_to_say_is TRUE
 
 //==================================
-/*CHANGE IS THE ONLY*/const;
+/*CHANGE IS THE ONLY*/const/*ant*/;
 //==================================
 
 /*Yes of course there will be a*/void/*for sometime but
@@ -36,8 +36,9 @@ the*/main()/*point of this CHANGE is to think about the*/{
   }
 
   auto/*mation has always*/ _been_a;double _edged_sword;
+  //you know what _I mean ;)
 
-  /*now juggling with some*/extern/*al and some*/int/*ernal*/_dilemmas;
+  /*now _I'm juggling with some*/extern/*al and some*/int/*ernal*/_dilemmas;
 
   do{/*_I need to*/switch(_careers){//and look for alternate fields//??
     //or hone my skills??
@@ -56,12 +57,12 @@ the*/main()/*point of this CHANGE is to think about the*/{
     char/*acters who played an important role*/ 
       *_who_trusted_supported_helped_you_in_your_journey[] = {
       /*So,_I would like to thank*/
-      "The Director(s)",
-      "The Manager(s)",
-      "MY TEAM",//automation
-      "EXTENDED TEAM",
-      "PEERS",
-      "FRIENDS",
+      "My Director",
+      "My Manager(s)",
+      /* and extend my thanks to...*/
+      "My Team",//automation team
+      "Extended Team",
+      "Friends",
       "et al."
     };
     for(;_all;){}/*the opportunities that you paved my way.*/
@@ -69,11 +70,11 @@ the*/main()/*point of this CHANGE is to think about the*/{
   /*_I hope some good luck bounces back in*/return;//:) :)
 
   //Like this section of the code, _I am also unreachable on
-  /*networking platforms*/union{/*of(Facebook,Instagram,LinkedIn)*/};
+  /*networking platforms*/union{/*of(Facebook,Instagram)*/};
   /*so*/if(_you)/*would like to reach me*/{
-  //mail me at abhins4@gmail.com
+  //mail me at *****@gmail.com
   }else{
-  //WhatsApp or Call me at +91-9611012995
+  //WhatsApp or Call me at XXXXX-XXXXX
   }
   /*a NOTE*/for(;;){}/*all the Geeks*/
   //(it's Zen to be non-attached, Geeks prefer attachment so I added one!)
